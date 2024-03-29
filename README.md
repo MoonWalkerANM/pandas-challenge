@@ -38,3 +38,7 @@ Medium (1000-2000)	 83.374684	         83.864438	            93.599695	      96.
 Large (2000-5000)	 77.746417	         81.344493	            69.963361	      82.766634	        58.286003
 
 In addition to the limited data given, it will be useful to have the students-teacher ratio and average household income for students of each school.  These two information could give us better understanding on what affects the students' performance.
+References:
+Zoom class videos
+Xper Learning Assistant
+Tutoring session with Lebuso Philly
